@@ -1,0 +1,12 @@
+/*************************************
+HEADING
+**************************************/
+h1 {
+    font-family: 'Changa One', sans-serif !important;
+    margin: 10px 0 !important;
+    font-size: 1.75em !important;
+    font-weight: normal !important;
+    line-height: 0.5 !important;
+    text-align: left !important;
+    color: #0000FF !important;
+}
